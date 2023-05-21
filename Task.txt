@@ -22,7 +22,7 @@ Program
 
 The program will ask the quantity of each product. Same time, program will ask is that product is wrapped as gift?
 
-Then the program will show / output below details.
+Then the program will show / output below details:
 
 The product name, quantity & total amount of that product.
 Subtotal
